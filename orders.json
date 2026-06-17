@@ -1,0 +1,44 @@
+{
+  "S20HDRK048191": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Victor Dieter, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Rocco Camardella, Wilhelm-Leuschner-Straße 48, 55218 Ingelheim am Rhein, Deutschland",
+    "price": "10.800 €",
+    "description": "Hersteller: Harley-Davidson <br>Typ: Road King Special FLHRXS <br> Fahrgestelnummer: 5HD1KVP49LS651874 <br>Erstzulassung: 10/2020 <br>TÜV 10/2027 <br> KM laut Vorbesitzer: 13.974 km <br>Leistung: 66 kW (90 PS) <br> Hubraum 1.867 cm³ <br> Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br> Bezitser 1 <br> Mit Extras <br> Deutsch Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Rocco Camardella<br>Wilhelm-Leuschner-Straße 48<br> 55218 Ingelheim am Rhein<br> Deutschland<br>Telefon: +49 15143187781
+",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "10-06-2026",
+    "deliveryDate": "19-06-2026",
+    "pickup": {
+      "street": "Lindenstraat 33",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Wilhelm-Leuschner-Straße 48",
+      "postal_code": "55218",
+      "city": "Ingelheim am Rhein",
+      "country": "Deutschland"
+    }
+  }
+}
